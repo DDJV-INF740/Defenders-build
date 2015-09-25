@@ -4,9 +4,6 @@
 [submodule "GameEngine"]
 	path = GameEngine
 	url = https://github.com/DDJV-INF740/GameEngine-src.git
-[submodule "Managers"]
-	path = Managers
-	url = https://github.com/DDJV-INF740/Managers-src.git
 [submodule "config/msvc"]
 	path = config/msvc
 	url = https://github.com/DDJV-INF740/config-msvc.git
