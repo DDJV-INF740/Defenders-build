@@ -10,3 +10,6 @@
 [submodule "DirectX"]
 	path = DirectX
 	url = https://github.com/DDJV-INF740/DirectX-bin.git
+[submodule "Defenders"]
+	path = Defenders
+	url = https://github.com/DDJV-INF740/Defenders.git
