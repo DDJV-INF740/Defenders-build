@@ -33,3 +33,5 @@
 **/ipch/
 **/Release/
 *.suo
+*.db
+*.opendb

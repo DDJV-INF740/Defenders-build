@@ -13,3 +13,6 @@
 [submodule "Defenders"]
 	path = Defenders
 	url = https://github.com/DDJV-INF740/Defenders.git
+[submodule "GSL"]
+	path = GSL
+	url = https://github.com/Microsoft/GSL.git
